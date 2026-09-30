@@ -8,6 +8,7 @@
 - đóng các ứng dụng, app không cần thiết, hạn chế sử dụng quá nhiều tab cùng một lúc
 - mua thêm ram
 - tắt ứng dụng ko cần thiết tự động chạy khi bật máy
+
 3.Viết báo cáo chẩn đoán sức khỏe máy tính dựa trên các thông số: %CPU, %RAM, %Disk từ Task Manager thực tế của bạn
 
 | %CPU | %RAM | %Disk |
